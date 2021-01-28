@@ -1,14 +1,8 @@
-[ [about](https://sheas.blog/about) ]  
-[ [talks](https://sheas.blog/talks) ]  
-[ [posts](https://sheas.blog) ]  
-[ [publications](https://sheas.blog/publications) ]  
-  
----
 
-[ [rust](https://crates.io/users/shnewto)                             ]  
-[ [elm](https://package.elm-lang.org/packages/shnewto/pgn/latest)     ]  
+[ [rust](https://crates.io/users/shnewto) ]  
+[ [elm](https://package.elm-lang.org/packages/shnewto/pgn/latest) ]  
 [ [java](https://search.maven.org/artifact/com.github.shnewto/bqjson) ]  
-[ [python](https://pypi.org/project/geta)                             ]  
+[ [python](https://pypi.org/project/geta) ]  
 
 ---
 
@@ -17,7 +11,6 @@
 ---
 
 [ [used gravitrons archive](https://github.com/shnewto/usedgravitrons/tree/main/issues) ]  
-
 
 
 ---
