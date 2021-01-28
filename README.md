@@ -1,8 +1,5 @@
 
-[ [rust](https://crates.io/users/shnewto) ]  
-[ [elm](https://package.elm-lang.org/packages/shnewto/pgn/latest) ]  
-[ [java](https://search.maven.org/artifact/com.github.shnewto/bqjson) ]  
-[ [python](https://pypi.org/project/geta) ]  
+[ [rust](https://crates.io/users/shnewto) ] [ [elm](https://package.elm-lang.org/packages/shnewto/pgn/latest) ] [ [java](https://search.maven.org/artifact/com.github.shnewto/bqjson) ] [ [python](https://pypi.org/project/geta) ]  
 
 ---
 
