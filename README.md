@@ -1,16 +1,17 @@
-### Hi there 👋
+### [ [about](https://sheas.blog/about) ]  
+### [ [talks](https://sheas.blog/talks) ]  
+### [ [posts](https://sheas.blog) ]  
+### [ [publications](https://sheas.blog/publications) ]  
+  
+### [ [rust](https://crates.io/users/shnewto) ]  
+### [ [elm](https://package.elm-lang.org/packages/shnewto/pgn/latest) ]  
+### [ [java](https://search.maven.org/artifact/com.github.shnewto/bqjson) ]  
+### [ [python](https://pypi.org/project/geta) ]  
 
-<!--
-**shnewto/shnewto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [ [twitter](https://twitter.com/shnewto) ]  
 
-Here are some ideas to get you started:
+### [ [used gravitrons archive](https://github.com/shnewto/usedgravitrons/tree/main/issues) ]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![](/img/avalogo-small.png)
