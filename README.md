@@ -3,6 +3,10 @@
 
 ---
 
+[ [twitter](https://twitter.com/shnewto) ]
+
+---
+
 [ [used gravitrons archive](https://github.com/shnewto/usedgravitrons/tree/main/issues) ]  
 
 ---
