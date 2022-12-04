@@ -3,7 +3,7 @@
 
 ---
 
-[ [twitter](https://twitter.com/shnewto) ]
+[ [mastodon.social](https://mastodon.social/@shnewto) ]
 
 ---
 
